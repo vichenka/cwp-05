@@ -1,0 +1,2 @@
+[2018-10-15 07:40:29]> url: /api/articles/readall, request: {"articleId":1,"text":"asdasd","author":"123123","date":"10.10.2018"}
+[2018-10-15 07:41:06]> url: /api/articles/readall, request: {"includeDeps":false,"articleId":1,"text":"asdasd","author":"123123","date":"10.10.2018"}
